@@ -1,0 +1,27 @@
+{
+    "account": {
+        "subdomain":"dimitryborodavkin",
+        "id":"31319326",
+        "_links": {
+            "self":"https:\/\/dimitryborodavkin.amocrm.ru"
+        }
+    },
+    "leads":{
+        "add":[{
+            "id":"39497849",
+            "name":"wswsws",
+            "status_id":"60785334",
+            "price":"0",
+            "responsible_user_id":"10141682",
+            "last_modified":"1695908891",
+            "modified_user_id":"10141682",
+            "created_user_id":"10141682",
+            "date_create":"1695908891",
+            "pipeline_id":"7296694",
+            "account_id":"31319326",
+            "created_at":"1695908891",
+            "updated_at":"1695908891"
+        }
+        ]
+    }
+}
